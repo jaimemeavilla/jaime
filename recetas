@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Recetas Jaime</title>
+        <meta charset="utf-8">
+        <style>
+            body{color:rgb(0, 0, 0);}
+            body{background:rgb(32, 138, 138);}
+            h2{color:rgb(255, 0, 43);}
+        </style>
+    </head>
+    <body>
+       
+        <h1>Libro de recetas</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#tarta">Tarta de queso</a></li>
+            <li><a href="#lentejas">Lentejas</a></li>
+            <li><a href="#macarrones">Macarrones</a></li>
+        </ol>
+        <!-- RECETA DE TARTA-->
+        <h2 id="tarta">Tarta de queso</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/01_Die_Mutter_aller_Kuchen_K%C3%A4sekuchen.jpg" width="200">
+        <ul>
+            <li>Tiempo: 2 horas</li>
+            <li>Raciones: 5 personas</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        Queso, Galletas, Mermelada, azúcar...
+        <p><strong>Paso 1:</strong> Lo primero que haremos será coger las galletas y las trituraremos hasta hacerlas polvo. Yo he usado el triturador de la batidora pero podéis meterla en una bolsa y con la ayuda de un rodillo las dejaremos trituradas.<br><br>
+        <strong>Paso 2:</strong>Derretimos la mantequilla en el microondas y mezclamos las galletas trituradas con la mantequilla y un toque de esencia de vainilla.<br><br>
+        <strong>Paso 3:</strong>Ponemos en un molde el fondo de papel vegetal y hacemos la base de la tarta. Con la ayuda de un espalmador o con la mano presionamos bien. Metemos en la nevera durante 15 o 20 minutos. <br><br>
+        <strong>Paso 4:</strong>En una cacerola ponemos la nata a cocer junto con el queso philadelphia, los sobres de cuajada y el azúcar. Dejamos cocer a fuego lento 1 minuto para que la cuajada actúe. Si no cocemos puede que la cuajada no funcione. Una vez que está todo el queso derretido y mezclado con los demás ingredientes, lo vertemos encima de la base de galletas. Introducimos en la nevera mínimo 4 horas.<br><br>
+        <strong>Paso 5:</strong>Pasado ese tiempo ponemos en una cacerola la mermelada de fresa con un chorrito de agua y el sobre de gelatina. Cocemos a fuego lento un minuto y retiramos. Dejamos enfriar un poco (con cuidado de que no se cuaje la mezcla) una vez templado y que continúe líquido lo vertemos encima de la base de queso y volvemos a introducir en la nevera durante un par de horas. Lo dejo enfriar un poco porque una vez lo puse directamente de la cacerola y se derritió por completo la base de queso jeje. Así que esperad unos minutos.
+
+ 
+</p>
+        <!--RECETA DE LENTEJAS-->
+        <h2 id="lentejas">Lentejas</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lentejas_estilo_de_la_abuela.jpg/245px-Lentejas_estilo_de_la_abuela.jpg" width="200">
+        
+        <ul>
+            <li>Tiempo: 1 hora</li>
+            <li>Raciones: Las que quieras</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+       Lentejas, chorizo, ajo, cebolla, patata, zanahoria
+        <p><strong>Paso 1:</strong>  En una olla grande echamos las lentejas lavadas, el chorizo cortado en rodajas, los dientes de ajo sin pelar (tranquilos que luego los podéis apartar), y la zanahoria y patata cortadas en cuadraditos.<br><br>
+            <strong>Paso 2:</strong>Echamos agua en la olla hasta que cubra todo unos 3 dedos por encima si nos gustan espesas. Podéis echar más agua si os gustan muy líquidas<br><br>
+            <strong>Paso 3:</strong>Encendemos el fuego al máximo y cuando empiece a hervir lo bajamos al mínimo y dejamos cocer destapado. Removemos de vez en cuando para que no se peguen las lentejas al fondo de la olla. <br><br>
+        <strong>Paso 4:</strong>Mientras se hacen, en una sartén con aceite freímos una cebolla picada en trozos pequeños, y cuando empiece a dorarse la retiramos del fuego y le añadimos una cucharada de pimentón. Mezclamos y lo añadimos todo a las lentejas.<br><br>
+        <strong>Paso 5:</strong>A partir de ese momento sólo tenemos que remover de vez en cuando para que no se peguen y añadirle sal al caldo hasta que esté a nuestro gusto. Tardarán unos 45 minutos en total, pero lo mejor es probarlas cuando el líquido empiece a espesar.
+
+ 
+</p>  <!--RECETA DE MACARRONES-->
+        <h2 id="macarrones">Macarrones</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Macarrones_gratinados_-_Javier_Leiva.jpg" width="200">
+        <ul>
+            <li>Tiempo: 30 min.</li>
+            <li>Raciones: Las que quieras</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+       Macarrones, carne picada, tomete frito, ceboilla, ajo oregano seco, sal, pimienta y aceite.
+        <p><strong>Paso 1:</strong>Cocemos los macarrones. Para ello, los introducimos en una cazuela con abundante agua hirviendo. Añadimos un buen puñadito de sal y los cocemos durante unos 12-15 minutos. Hasta que estén al dente. Removemos de vez en cuando, sobre todo al principio, para que no se peguen al fondo de la olla<br><br>
+            <strong>Paso 2:</strong> Mientras se cocinan, podemos ir preparando la salsa. En una sartén amplia, ponemos a calentar un chorrito de aceite a fuego medio. Después añadimos la cebolla y los ajos picados muy finos. Salpimentamos y removemos con una cuchara de palo mientras cocinamos durante 5 minutos<br><br>
+            <strong>Paso 3:</strong>Pasado el tiempo, añadimos la carne picada. la salpimentamos y la desmenuzamos con la cuchara de palo para que no queden mazacotes grandes y quede bien suelta. Subimos la fuerza del fuego y la dejamos cocinar hasta que coja algo de color <br><br>
+            <strong>Paso 4:</strong>Una vez hecho esto, añadimos el tomate frito y espolvoreamos con orégano seco. Mezclamos todos los ingredientes y dejamos cocinar 10 minutos más.<br><br>
+        <strong>Paso 5:</strong>Cuando los macarrones estén al dente, reservamos uno 150ml del caldo de la cocción en un vaso y los escurrimos del resto del agua <br><br>
+            <strong>Paso 6:</strong> Cuando tanto los macarrones como la salsa estén cocinados, añadimos los macarrones a la cazuela donde esté la salsa. Añadimos el caldo de la cocción (que potenciará todos los sabores) y lo mezclamos todo bien, mientras cocinamos todo durante un par de minutos
+</p>
+    </body>
+</html>
