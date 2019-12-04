@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<style>
+   body{background:rgb(3, 0, 3);}
+  p{color:rgb(20, 242, 0);}
+   #titulo{color:rgb(0,250,38);}
+   ol{color:rgb(0,250,38);}
+   </style>
+    <head>
+        <meta charset="utf-8">
+        <title>Viaje a Zaragoza</title>
+    </head>
+    <body>
+    
+        <h1 id="titulo">Travel to Zaragoza</h1>
+        <p>En Zaragoza hay muchos sitios que visitar y muchas actividades que hacer.<br>Algunos de los sitios que puedes visitar son:
+        <ol> <li>Basilica del Pilar <br>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Zaragoza_-_Bas%C3%ADlica_del_Pilar_y_r%C3%ADo_Ebro.jpg" width="200"></li>
+            <li>Palacio de la Aljaferia <br>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aljafer%C3%ADa2.JPG/1024px-Aljafer%C3%ADa2.JPG" width="200"> </li>
+            <li>Catedral del Salvador <br>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/La_Seo_18072014_194810_03954.jpg/280px-La_Seo_18072014_194810_03954.jpg" width="200"> </li>
+            <li> Parque del Agua de la Expo 2008<br>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Parque_del_Agua_%288627926334%29.jpg" width="200"> </li>
+        </ol>
+        
+        </p>
+    </body>
+    
+</html>
